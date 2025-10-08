@@ -48,6 +48,32 @@ streamlit run app.py
 | **Evaluation** | 3-fold GridSearchCV         |
 | **Classes**    | Negative, Neutral, Positive |
 
+# Deployment
+
+Streamlit Cloud
+
+Push your repo to GitHub
+
+Go to https://share.streamlit.io
+
+Connect to the repo and deploy
+
+https://v2jopv7xkmsqkr4gk4cjwv.streamlit.app/
+
+# Example Output
+
+Input:
+
+“I absolutely love this new phone 😍🔥”
+
+Prediction:
+
+✅ Sentiment: Positive
+Confidence: 97%
+
+<img width="1235" height="419" alt="image" src="https://github.com/user-attachments/assets/1a0c16f4-ef1c-43d2-aab8-28b5b8619d88" />
+
+
 # Author
 
 Ittyavira C Abraham
